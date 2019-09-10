@@ -1,0 +1,212 @@
+body { 
+margin: 0; 
+background-color: #00FFFF;
+}
+
+#header {
+    background-color: #1BAFE2;
+    left: 200;
+}
+
+#link {
+    
+    position:absolute;
+    top: 80;
+    right: 30;
+    
+}
+#link1pos {
+    
+    position:absolute;
+    top: 130;
+    right: 70;
+}
+
+#link1size {
+    width: 32;
+    height: 32;
+    
+}
+
+#link2pos {
+    
+    position:absolute;
+    top: 170;
+    right: 70;
+}
+
+#link2size {
+    width: 32;
+    height: 32;
+    
+}
+
+
+#link3pos {
+    
+    position:absolute;
+    top: 210;
+    right: 70;
+}
+
+#link3size {
+    width: 32;
+    height: 32;
+    
+}
+
+
+#name {
+    position: absolute;
+    left: 150;
+}
+
+#quotes {
+  font-family: fantasy;
+  position: absolute;
+  left: 300;
+  top: 170;
+  border-style: solid;
+  border-color: #ADD8E6;
+}
+
+#demoVideo {
+position: absolute;
+min-width: 40%;
+min-height: 20%;
+right: 150;
+top: -90;
+}
+
+#profile {
+    position: absolute; 
+    top: 165;
+    left: 160;
+}
+
+#details {
+  font-family: fantasy;
+  position: absolute;
+  left: 160;
+  top: 350;
+  border-style: solid;
+  border-color: #ADD8E6;
+}
+
+#audioControls {
+    position: absolute;
+    top: 290;
+    left: 300;
+    width: 150;
+    volume="0.5"
+}
+
+#altera1 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 0;
+    width: 200;
+}
+
+#altera2 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 200;
+    width: 200;
+}
+
+#altera3 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 400;
+    width: 200;
+}
+
+#altera4 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 600;
+    width: 200;
+}
+
+#altera5 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 800;
+    width: 200;
+}
+
+#altera6 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 1000;
+    width: 200;
+}
+#altera7 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 1200;
+    width: 200;
+}
+
+#gallery1 { 
+    position: absolute;
+    top:500;
+    left:160;
+    width:128;
+    height:128;
+ 
+}
+
+#gallery2 { 
+    position: absolute;
+    top:500;
+    left:300;
+    width:128;
+    height:128;
+}
+
+#gallery3 { 
+    position: absolute;
+    top:500;
+    left:440;
+    width:128;
+    height:128;
+}
+
+#gallery4 { 
+    position: absolute;
+    top:650;
+    left:160;
+    width:128;
+    height:128;
+}
+
+#gallery5 {
+        position: absolute;
+    top:650;
+    left:300;
+    width:128;
+    height:128;
+}
+
+#gallery6 { 
+    position: absolute;
+    top:650;
+    left:440;
+    width:128;
+    height:128;
+}
+
+#japan2 {
+    position: absolute;
+    top: 75;
+    right: 0;
+}
