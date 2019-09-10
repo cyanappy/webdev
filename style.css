@@ -4,7 +4,9 @@ background-color: #00FFFF;
 }
 
 #spotify {
-    
+    position: absolute;
+    bottom: 100;
+    right: 255;
 }
 
 #header {
