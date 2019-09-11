@@ -152,14 +152,14 @@ top: -90;
     top: 0;
     height: 73;
     left: 1000;
-    width: 200;
+    width: 150;
 }
 #altera7 {
     position: absolute;
     top: 0;
     height: 73;
-    left: 1200;
-    width: 200;
+    left: 1150;
+    width: 215;
 }
 
 #gallery1 { 
@@ -214,5 +214,5 @@ top: -90;
 #japan2 {
     position: absolute;
     top: 75;
-    right: 0;
+    right: -10;
 }
