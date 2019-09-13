@@ -1,0 +1,80 @@
+body { 
+margin: 0; 
+background-color: #00FFFF;
+}
+
+#header {
+    background-color: #1BAFE2;
+    left: 200;
+}
+
+#altera1 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 0;
+    width: 200;
+}
+
+#altera2 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 200;
+    width: 200;
+}
+
+#altera3 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 400;
+    width: 200;
+}
+
+#altera4 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 600;
+    width: 200;
+}
+
+#altera5 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 800;
+    width: 200;
+}
+
+#altera6 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 1000;
+    width: 150;
+}
+#altera7 {
+    position: absolute;
+    top: 0;
+    height: 73;
+    left: 1150;
+    width: 215;
+}
+
+#japan2 {
+    position: absolute;
+    top: 75;
+    right: 5;
+}
+
+#goback {
+	position: absolute;
+	top: 80;
+	left: 10;
+	font-family: Helvetica;
+	font-weight: Bold;
+	
+	
+}

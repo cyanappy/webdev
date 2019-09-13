@@ -214,5 +214,13 @@ top: -90;
 #japan2 {
     position: absolute;
     top: 75;
-    right: -10;
+    right: 5;
+}
+
+#gallery {
+	position: absolute;
+	bottom: -60;
+    right: 605;
+	font-family: Helvetica;
+	font-weight: Bold;
 }
